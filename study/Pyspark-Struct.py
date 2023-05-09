@@ -369,3 +369,7 @@ df = (df_union.filter(~f.col('nr_linha_dinamica').isin(1))
      )
 
 df.display()
+
+# COMMAND ----------
+
+
